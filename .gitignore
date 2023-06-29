@@ -1,5 +1,6 @@
 # .gitignore
 .resources/
+./Application/character_profiles/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

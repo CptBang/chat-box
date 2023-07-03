@@ -47,7 +47,7 @@ class Application(QMainWindow):
         self.ProfileHandler = ProfileFileHandler()
         self.EventHandler = EventHandler(self)
         self.WidgetFactory = WidgetFactory(self)
-        self.setWindowTitle("Help me Step-bro")
+        self.setWindowTitle("ChatBox")
         self.resize(900, 600)
         self.MessageCache = MessageCache(self)
         self.check_first_run()

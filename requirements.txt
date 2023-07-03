@@ -1,0 +1,4 @@
+elevenlabs==0.2.16
+openai==0.27.7
+python_magic==0.4.27
+tiktoken==0.4.0

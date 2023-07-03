@@ -1,6 +1,4 @@
 # .gitignore
-.resources/
-./Application/character_profiles/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Application/character_profiles/
+/Application/resources/
+/one_shot/
+/tests/
